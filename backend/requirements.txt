@@ -1,0 +1,8 @@
+Flask==3.1.0
+Flask-Cors==5.0.0
+SQLAlchemy==2.0.36
+PyMySQL==1.1.1
+requests==2.32.3
+openpyxl==3.1.5
+comtypes==1.4.17
+pywin32==312; sys_platform == "win32"
